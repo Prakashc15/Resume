@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My resume
+</title>		
+</head>
+<body>
+<h1><center>RESUME</center></h1>
+<div><img src="./image1/picture5.jpg" alt="picture" height="100" width="100"></div>
+<h1>JAVITH</h1>
+<hr>
+<a href="">About</a>
+<a href="">Skill</a>
+<a href="">Education</a>
+<a href="">Projects</a>
+<a href="">Contact</a>
+<hr>
+<table frame="box">
+<tr>
+<td>
+<p>Hello world</p>
+</td>
+</tr
+<tr>
+<td>
+<h1>Iam a UI developer</h1>
+</td>
+</tr>
+<tr>
+<td>
+<h3>from chennai,india.</h3>
+</td>
+</tr>
+<tr>
+<td>
+<input type="text" placeholder="Download my resume">
+</td>
+</tr>
+</table>
+<hr>
+<h2>Skill</h2>
+<img src="./image1/skill-pic.png" alt="skill-pic">
+<a>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a><br>
+<br>
+<a>HTML5,</a>
+<a>CSS3,</a>
+<a>Javascript,</a>
+<a>Java,</a>
+<a>Photoshop</a>
+<hr>
+<h2>Education</h2>
+<img src="./image1/education.png" alt="education"
+<a>  I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you</a><br>
+<br>
+<a>May 2014</a><br>
+<a>UG in Bsc.cs</a><br>
+<a>College of arts and science,chennai</a><br>
+<a>achivement to participated in enterprener group discussion</a>
+<table frame="box">
+<tr>
+<td>
+85
+</td>
+</tr>
+</table>
+<br>
+<a>May 2010</a><br>
+<a>HSC from Govt</a><br>
+<a>Govt hr sec school,chennai</a><br>
+<a>achivement to participated in enterprener group discussion</a>
+<table frame="box">
+<tr>
+<td>
+75
+</td>
+</tr>
+</table>
+<br>
+<a>May 2008</a><br>
+<a>SSLC from Govt</a><br>
+<a>Govt high school,chennai</a><br>
+<a>achivement to participated in enterprener group discussion</a>
+<table frame="box">
+<tr>
+<td>
+95
+</td>
+</tr>
+</table>
+<hr>
+<h2>Project</h2>
+<img src="./image1/project-pic.png" alt="project-pic">
+<a>that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness</a><br>
+<br>
+<a>Final year project</a><br>
+<a><b>Project Name</b></a><br>
+<a>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</a><br>
+<a>Technologies-Java,MySQL,DBMS</a><br>
+<a>Team members-4</a><br>
+<br>
+<br>
+<a>Final year project</a><br>
+<a><b>Project Name</b></a><br>
+<a>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</a><br>
+<a>Technologies-Java,MySQL,DBMS</a><br>
+<a>Team members-4</a><br>
+<br>
+<br>
+<a>Final year project</a><br>
+<a><b>Project Name</b></a><br>
+<a>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</a><br>
+<a>Technologies-Java,MySQL,DBMS</a><br>
+<a>Team members-4</a><br>
+<br>
+<hr>
+<h2>Contact</h2>
+<a>It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</a><br>
+<br>
+<img src="./image1/contact2.png" alt="contact2">
+<img src="./image1/Email.png" alt="Email">
+<img src="./image1/internet.png" alt="internet">
+<img src="./image1/facebook.png" alt="facebook">
+<img src="./image1/google.png" alt="google">
+<img src="./image1/netin.png" alt="netin">
+<img src="./image1/23.png" alt="23"><br>
+<br>
+<a href="www.sample.com">www.sample.com</a>
+<a>|</a>
+<a>All rights reserved</a>
+<hr>
+</body>
+<html>
